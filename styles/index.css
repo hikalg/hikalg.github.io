@@ -1,0 +1,18 @@
+.title {
+    display: flex;
+    /* margin-left: -250px; */
+    justify-content: center;
+}
+
+.description {
+    display: flex;
+    /* margin-left: 0; */
+    justify-content: center;
+}
+
+.link {
+    font-family: "Public Sans";
+    font-weight: 400;
+    line-height: 3;
+    cursor: text;
+}
