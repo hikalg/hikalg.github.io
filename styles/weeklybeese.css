@@ -1,0 +1,12 @@
+html, body {
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 37%, rgba(30,9,121,1) 70%, rgba(12,9,121,1) 100%);
+}
+
+.whole-thing {
+    
+    position: fixed;
+    top: 10%;
+    /* bottom: 50%; */
+    left: 30%;
+    right: 30%;
+}
